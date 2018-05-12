@@ -1,0 +1,32 @@
+_repo: Le-Mariage-de-Mademoiselle-Gimel-Dactylographe_43748
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43748-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bazin, René
+    alias: Bazin, Rene
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '1348'
+    url: http://www.gutenberg.org/2009/agents/1348
+    wikipedia: http://en.wikipedia.org/wiki/René_Bazin
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2013-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43748'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcsh 'France -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+tableOfContents: Le mariage de Mademoiselle Gimel -- Le petit cinq -- Le testament
+  du vieux Chogne -- Aux Petites soeurs -- Le Raphaël de M. Prunelier.
+title: Le Mariage de Mademoiselle Gimel, Dactylographe
+url: http://www.gutenberg.org/ebooks/43748
