@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1348
     wikipedia: http://en.wikipedia.org/wiki/René_Bazin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43748#Le-Mariage-de-Mademoiselle-Gimel-Dactylographe
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2013-09-16'
 gutenberg_type: Text
